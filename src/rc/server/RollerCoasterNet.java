@@ -1,4 +1,4 @@
-package rc.client;
+package rc.server;
 import rc.common.RCInterface;
 
 
