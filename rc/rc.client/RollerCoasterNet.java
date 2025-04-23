@@ -1,4 +1,6 @@
 package rc.client;
+import rc.common.RCInterface;
+
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
